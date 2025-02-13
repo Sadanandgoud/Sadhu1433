@@ -1,6 +1,6 @@
-**# 👋 Hi, I'm Sadanand Goud Karre (Sadhu1433)  
+**# 👋 Hi, I'm Sadanand Goud Karre  
 🚀 **Business Analyst | Data Scientist | AI & Analytics Enthusiast**  
-📍 **New York, USA** | 📊 **Data-Driven Decision Making | Process Optimization**  
+📍 **New Jersey, USA** | 📊 **Data-Driven Decision Making | Process Optimization**  
 
 ---
 
